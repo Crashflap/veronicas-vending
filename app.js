@@ -1,2 +1,2 @@
-cats = require('./cats.js');
-console.log(cats);
+mods = require('./mods.js');
+console.log(mods);
